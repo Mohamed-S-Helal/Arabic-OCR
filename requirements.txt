@@ -19,3 +19,5 @@ threadpoolctl==2.1.0
 tifffile==2021.3.31
 tqdm==4.59.0
 tf-estimator-nightly==2.8.0.dev2021122109
+folium==0.2.1
+imgaug==0.2.5
